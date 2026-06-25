@@ -43,11 +43,10 @@ Linux (Ubuntu, Debian, CentOS, RHEL)
 
 ## 📌 What I Do
 
-- Design cloud-native infrastructure
 - Build Kubernetes platforms
-- Implement GitOps workflows
 - Automate infrastructure provisioning
 - Create CI/CD pipelines
+- Implement GitOps workflows
 - Deploy serverless applications
 - Improve observability and monitoring
 - Optimize cloud costs
@@ -68,17 +67,5 @@ Linux (Ubuntu, Debian, CentOS, RHEL)
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/misbahally)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/misbahally)
 
----
-
-### ⚡ Philosophy
-
-> Automate everything possible.  
-> Keep infrastructure reproducible.  
-> Monitor what matters.  
-> Build reliable systems.
-
----
-⭐ If you find my projects useful, consider starring them.
