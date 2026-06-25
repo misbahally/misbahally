@@ -12,46 +12,32 @@ My expertise spans cloud architecture, Kubernetes, Infrastructure as Code, CI/CD
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Technologies & Tools
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![GCP](https://img.shields.io/badge/Google_Cloud-Cloud-blue)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue)
-![Hetzner](https://img.shields.io/badge/Hetzner-Cloud-red)
-![OVH](https://img.shields.io/badge/OVH-Cloud-black)
+AWS • Google Cloud • DigitalOcean • Hetzner • OVH • Scaleway
 
 ### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![K3s](https://img.shields.io/badge/K3s-Lightweight_Kubernetes-blue)
+Docker • Kubernetes • K3s
 
 ### 🏗 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-black)
+Terraform • Ansible • CloudFormation
 
-### 🔄 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
-![Drone CI](https://img.shields.io/badge/Drone-CI/CD-green)
-![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-CI/CD-orange)
+### 🔄 CI/CD & Automation
+GitHub Actions • Jenkins • Drone CI • Bamboo • AWS CodePipeline
 
-### 💻 Development
-![Python](https://img.shields.io/badge/Python-Automation-green)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
-![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey)
-![Go](https://img.shields.io/badge/Go-Backend-blue)
+### 💻 Programming & Scripting
+Python • Go • Bash • FastAPI
 
 ### 📊 Monitoring & Observability
-![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange)
-![Loki](https://img.shields.io/badge/Loki-Logs-yellow)
-![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange)
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-Monitoring-orange)
+Grafana • Prometheus • Loki • InfluxDB • CloudWatch • New Relic
 
-### 🔒 Networking & Security
-![WireGuard](https://img.shields.io/badge/WireGuard-VPN-green)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-VPN-orange)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Networking-orange)
+### 🔐 Networking & Security
+Cloudflare • WireGuard • OpenVPN • Nginx • HAProxy
+
+### 🐧 Operating Systems
+Linux (Ubuntu, Debian, CentOS, RHEL)
+
 
 ---
 
