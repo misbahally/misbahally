@@ -56,18 +56,6 @@ Linux (Ubuntu, Debian, CentOS, RHEL)
 
 ---
 
-## 🔭 Current Interests
-
-- Platform Engineering
-- Kubernetes Operations
-- Infrastructure Automation
-- Serverless Computing
-- Reliability Engineering
-- AI Infrastructure
-- Developer Experience (DevEx)
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misbahally&show_icons=true)
@@ -75,23 +63,6 @@ Linux (Ubuntu, Debian, CentOS, RHEL)
 ![GitHub Streak](https://streak-stats.demolab.com?user=misbahally)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misbahally&layout=compact)
-
----
-
-## 🏆 Featured Projects
-
-### Infrastructure & DevOps
-- Terraform AWS Infrastructure
-- Kubernetes Deployments
-- GitHub Actions Workflows
-- CI/CD Templates
-- Infrastructure Automation Scripts
-
-### Development
-- FastAPI Applications
-- Serverless APIs
-- Python Automation Tools
-- Monitoring Solutions
 
 ---
 
