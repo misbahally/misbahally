@@ -1,4 +1,4 @@
-## 🚀 About Me
+## 👋 Hi there
 
 I'm passionate about building scalable platforms, automating operations, and helping teams ship faster through modern DevOps practices.
 
