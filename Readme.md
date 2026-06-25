@@ -1,7 +1,5 @@
 # Hi, I'm Misbah Ally 👋
 
-Cloud & DevOps Consultant with 14+ years of experience designing, automating, and operating reliable infrastructure across cloud and on-premise environments.
-
 ---
 
 ## 🚀 About Me
