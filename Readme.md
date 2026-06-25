@@ -13,10 +13,10 @@ My expertise spans cloud architecture, Kubernetes, Infrastructure as Code, CI/CD
 ## 🛠 Technologies & Tools
 
 ### ☁️ Cloud Platforms
-AWS • Google Cloud • DigitalOcean • Hetzner • OVH • Scaleway
+AWS • Google Cloud • DigitalOcean
 
 ### 📦 Containers & Orchestration
-Docker • Kubernetes • K3s
+Docker • Kubernetes
 
 ### 🏗 Infrastructure as Code
 Terraform • Ansible • CloudFormation
@@ -28,7 +28,7 @@ GitHub Actions • Jenkins • Drone CI • Bamboo • AWS CodePipeline
 Python • Go • Bash • FastAPI
 
 ### 📊 Monitoring & Observability
-Grafana • Prometheus • Loki • InfluxDB • CloudWatch • New Relic
+Grafana • Prometheus • Loki • CloudWatch • New Relic
 
 ### 🔐 Networking & Security
 Cloudflare • WireGuard • OpenVPN • Nginx • HAProxy
